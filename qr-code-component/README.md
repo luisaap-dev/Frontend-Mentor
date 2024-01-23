@@ -4,7 +4,7 @@ Este repositorio contiene mi solución al [desafío del componente de código QR
 
 ## Capturas de Pantalla
 
-![Componente de Código QR](/design/desktop-preview.jpg)
+![Componente de Código QR](design/desktop-preview.jpg)
 
 ## Características
 
