@@ -24,7 +24,7 @@ Para ver este proyecto, puedes seguir estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/luisaap-dev/Frontend-Mentor/qr-code-component.git
+   git clone [https://github.com/luisaap-dev/Frontend-Mentor/qr-code-component.git](https://github.com/luisaap-dev/Frontend-Mentor/tree/main/qr-code-component)
 
 
 Abre el archivo index.html en tu navegador web preferido.
